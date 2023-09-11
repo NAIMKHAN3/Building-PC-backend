@@ -1,5 +1,6 @@
 import { NextFunction, Request, Response } from "express";
 import { Product } from "./product.model";
+import { Category } from "../category/category.model";
 
 export const getProducts = async (req: Request, res: Response, next: NextFunction) => {
     try {
@@ -21,6 +22,33 @@ export const getProductById = async (req: Request, res: Response, next: NextFunc
            return res.status(400).send({
             success: false,
             message: "Product Not found"
+        }) 
+        }
+        res.status(200).send({
+            success: true,
+            data: product
+        })
+    }
+    catch (err) {
+        next(err)
+    }
+}
+
+export const getProductByCategory = async (req: Request, res: Response, next: NextFunction) => {
+    try {
+        const {id} = req.params;
+        const findCategory = await Category.findById(id);
+        if(!findCategory){
+            return res.status(400).send({
+                success: false,
+                message: "Category Not found"
+            }) 
+        }
+        const product = await Product.find({category: findCategory.name});
+        if(!product.length){
+           return res.status(400).send({
+            success: false,
+            message: "Category Product Not found"
         }) 
         }
         res.status(200).send({
