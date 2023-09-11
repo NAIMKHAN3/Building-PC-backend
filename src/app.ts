@@ -11,7 +11,7 @@ app.use(express.json())
 app.get('/', (req: Request, res: Response) => {
   res
     .status(200)
-    .send({ success: true, message: 'Digital Cow Server is Running' })
+    .send({ success: true, message: 'Building PC Server is Running' })
 })
 app.use('/api/v1', router)
 app.use(notfoundandler)

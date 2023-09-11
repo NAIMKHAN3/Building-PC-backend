@@ -19,15 +19,15 @@
         "reviews": [
             {
                 "rating": 5,
-                "Comment": "Excellent processor, runs all my games smoothly."
+                "comment": "Excellent processor, runs all my games smoothly."
             },
             {
                 "rating": 4.5,
-                "Comment": "Great value for the performance."
+                "comment": "Great value for the performance."
             },
             {
                 "rating": 4,
-                "Comment": "Runs a bit hot under load, but still performs well."
+                "comment": "Runs a bit hot under load, but still performs well."
             }
         ]
     },
@@ -51,15 +51,15 @@
         "reviews": [
             {
                 "rating": 5,
-                "Comment": "Amazing performance, worth every penny."
+                "comment": "Amazing performance, worth every penny."
             },
             {
                 "rating": 5,
-                "Comment": "Handles multitasking and gaming like a champ."
+                "comment": "Handles multitasking and gaming like a champ."
             },
             {
                 "rating": 4.5,
-                "Comment": "Slightly expensive, but the performance is top-notch."
+                "comment": "Slightly expensive, but the performance is top-notch."
             }
         ]
     },
@@ -83,15 +83,15 @@
         "reviews": [
             {
                 "rating": 4,
-                "Comment": "Good for gaming, but not the best for heavy workloads."
+                "comment": "Good for gaming, but not the best for heavy workloads."
             },
             {
                 "rating": 4.5,
-                "Comment": "Solid CPU for the price, but consider a better cooler."
+                "comment": "Solid CPU for the price, but consider a better cooler."
             },
             {
                 "rating": 3.5,
-                "Comment": "Performance is decent, but I expected more from Intel."
+                "comment": "Performance is decent, but I expected more from Intel."
             }
         ]
     },
@@ -115,15 +115,15 @@
         "reviews": [
             {
                 "rating": 4.5,
-                "Comment": "Great motherboard for gaming, lots of features."
+                "comment": "Great motherboard for gaming, lots of features."
             },
             {
                 "rating": 4,
-                "Comment": "Good build quality, but a bit pricey."
+                "comment": "Good build quality, but a bit pricey."
             },
             {
                 "rating": 5,
-                "Comment": "Easy to overclock and tweak settings."
+                "comment": "Easy to overclock and tweak settings."
             }
         ]
     },
@@ -147,15 +147,15 @@
         "reviews": [
             {
                 "rating": 5,
-                "Comment": "Excellent motherboard for gaming and streaming."
+                "comment": "Excellent motherboard for gaming and streaming."
             },
             {
                 "rating": 4.5,
-                "Comment": "Wi-Fi works flawlessly, but a bit expensive."
+                "comment": "Wi-Fi works flawlessly, but a bit expensive."
             },
             {
                 "rating": 4.5,
-                "Comment": "Stable performance and good BIOS interface."
+                "comment": "Stable performance and good BIOS interface."
             }
         ]
     },
@@ -179,15 +179,15 @@
         "reviews": [
             {
                 "rating": 4,
-                "Comment": "Good value for a budget gaming PC build."
+                "comment": "Good value for a budget gaming PC build."
             },
             {
                 "rating": 4.5,
-                "Comment": "Decent features for the price, but lacks Wi-Fi."
+                "comment": "Decent features for the price, but lacks Wi-Fi."
             },
             {
                 "rating": 3.5,
-                "Comment": "Not suitable for heavy overclocking, but works well."
+                "comment": "Not suitable for heavy overclocking, but works well."
             }
         ]
     },
@@ -210,15 +210,15 @@
         "reviews": [
             {
                 "rating": 5,
-                "Comment": "Reliable RAM, improved my system's performance."
+                "comment": "Reliable RAM, improved my system's performance."
             },
             {
                 "rating": 4.5,
-                "Comment": "Good price for the speed and capacity."
+                "comment": "Good price for the speed and capacity."
             },
             {
                 "rating": 4,
-                "Comment": "Not the fastest RAM, but it gets the job done."
+                "comment": "Not the fastest RAM, but it gets the job done."
             }
         ]
     },
@@ -241,15 +241,15 @@
         "reviews": [
             {
                 "rating": 5,
-                "Comment": "Impressive RAM, works great for gaming and video editing."
+                "comment": "Impressive RAM, works great for gaming and video editing."
             },
             {
                 "rating": 4.5,
-                "Comment": "High-speed RAM at a reasonable price."
+                "comment": "High-speed RAM at a reasonable price."
             },
             {
                 "rating": 5,
-                "Comment": "Overclocks well, solid build quality."
+                "comment": "Overclocks well, solid build quality."
             }
         ]
     },
@@ -272,15 +272,15 @@
         "reviews": [
             {
                 "rating": 4,
-                "Comment": "Affordable RAM for basic computing tasks."
+                "comment": "Affordable RAM for basic computing tasks."
             },
             {
                 "rating": 4.5,
-                "Comment": "Decent performance for the price, no complaints."
+                "comment": "Decent performance for the price, no complaints."
             },
             {
                 "rating": 3.5,
-                "Comment": "Not suitable for gaming or heavy workloads."
+                "comment": "Not suitable for gaming or heavy workloads."
             }
         ]
     },
@@ -302,15 +302,15 @@
         "reviews": [
             {
                 "rating": 5,
-                "Comment": "Reliable PSU, stable power delivery."
+                "comment": "Reliable PSU, stable power delivery."
             },
             {
                 "rating": 4.5,
-                "Comment": "Modular design helps with cable management."
+                "comment": "Modular design helps with cable management."
             },
             {
                 "rating": 4,
-                "Comment": "Great value for a Gold-rated PSU."
+                "comment": "Great value for a Gold-rated PSU."
             }
         ]
     },
@@ -332,15 +332,15 @@
         "reviews": [
             {
                 "rating": 5,
-                "Comment": "Super quiet PSU with plenty of power."
+                "comment": "Super quiet PSU with plenty of power."
             },
             {
                 "rating": 4.5,
-                "Comment": "Efficient and reliable PSU for gaming rigs."
+                "comment": "Efficient and reliable PSU for gaming rigs."
             },
             {
                 "rating": 5,
-                "Comment": "Corsair quality never disappoints."
+                "comment": "Corsair quality never disappoints."
             }
         ]
     },
@@ -362,15 +362,15 @@
         "reviews": [
             {
                 "rating": 4,
-                "Comment": "Good PSU for budget builds, but limited wattage."
+                "comment": "Good PSU for budget builds, but limited wattage."
             },
             {
                 "rating": 4.5,
-                "Comment": "Reliable performance, but I wish it had more connectors."
+                "comment": "Reliable performance, but I wish it had more connectors."
             },
             {
                 "rating": 3.5,
-                "Comment": "Decent PSU, but not the quietest."
+                "comment": "Decent PSU, but not the quietest."
             }
         ]
     },
@@ -392,15 +392,15 @@
         "reviews": [
             {
                 "rating": 5,
-                "Comment": "Lightning-fast SSD, great for gaming and productivity."
+                "comment": "Lightning-fast SSD, great for gaming and productivity."
             },
             {
                 "rating": 5,
-                "Comment": "Samsung's NVMe drives are the best in the market."
+                "comment": "Samsung's NVMe drives are the best in the market."
             },
             {
                 "rating": 4.5,
-                "Comment": "Pricey but worth it for the speed."
+                "comment": "Pricey but worth it for the speed."
             }
         ]
     },
@@ -422,15 +422,15 @@
         "reviews": [
             {
                 "rating": 4.5,
-                "Comment": "Affordable and reliable storage solution."
+                "comment": "Affordable and reliable storage solution."
             },
             {
                 "rating": 4,
-                "Comment": "Good for mass storage, but not as fast as an SSD."
+                "comment": "Good for mass storage, but not as fast as an SSD."
             },
             {
                 "rating": 5,
-                "Comment": "Seagate drives have never failed me."
+                "comment": "Seagate drives have never failed me."
             }
         ]
     },
@@ -452,15 +452,15 @@
         "reviews": [
             {
                 "rating": 4,
-                "Comment": "Decent SSD for the price, but SATA limits speed."
+                "comment": "Decent SSD for the price, but SATA limits speed."
             },
             {
                 "rating": 4.5,
-                "Comment": "Reliable drive for everyday use, but consider an NVMe SSD."
+                "comment": "Reliable drive for everyday use, but consider an NVMe SSD."
             },
             {
                 "rating": 3.5,
-                "Comment": "Expected faster speeds, but it's an okay SSD."
+                "comment": "Expected faster speeds, but it's an okay SSD."
             }
         ]
     },
@@ -482,15 +482,15 @@
         "reviews": [
             {
                 "rating": 5,
-                "Comment": "Excellent monitor for photo editing and design work."
+                "comment": "Excellent monitor for photo editing and design work."
             },
             {
                 "rating": 4.5,
-                "Comment": "Sharp and vibrant display, great for productivity."
+                "comment": "Sharp and vibrant display, great for productivity."
             },
             {
                 "rating": 4,
-                "Comment": "A bit expensive, but the quality justifies it."
+                "comment": "A bit expensive, but the quality justifies it."
             }
         ]
     },
@@ -512,15 +512,15 @@
         "reviews": [
             {
                 "rating": 5,
-                "Comment": "Perfect for gaming, smooth and clear visuals."
+                "comment": "Perfect for gaming, smooth and clear visuals."
             },
             {
                 "rating": 4.5,
-                "Comment": "Expensive but worth it for gaming enthusiasts."
+                "comment": "Expensive but worth it for gaming enthusiasts."
             },
             {
                 "rating": 4.5,
-                "Comment": "Excellent colors and fast response time."
+                "comment": "Excellent colors and fast response time."
             }
         ]
     },
@@ -542,15 +542,15 @@
         "reviews": [
             {
                 "rating": 4,
-                "Comment": "Great budget monitor for office tasks and casual use."
+                "comment": "Great budget monitor for office tasks and casual use."
             },
             {
                 "rating": 4.5,
-                "Comment": "Good value, but not suitable for gaming."
+                "comment": "Good value, but not suitable for gaming."
             },
             {
                 "rating": 3.5,
-                "Comment": "Decent display quality, but lacks advanced features."
+                "comment": "Decent display quality, but lacks advanced features."
             }
         ]
     }
