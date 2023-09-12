@@ -2,6 +2,20 @@ import { NextFunction, Request, Response } from "express";
 import { Product } from "./product.model";
 import { Category } from "../category/category.model";
 
+export const getRandomProducts = async (req: Request, res: Response, next: NextFunction) => {
+    try {
+        const products = await Product.aggregate([
+            { $sample: { size: 6 } }
+        ]);
+        res.status(200).send({
+            success: true,
+            data: products
+        })
+    }
+    catch (err) {
+        next(err)
+    }
+}
 export const getProducts = async (req: Request, res: Response, next: NextFunction) => {
     try {
         const products = await Product.find();
